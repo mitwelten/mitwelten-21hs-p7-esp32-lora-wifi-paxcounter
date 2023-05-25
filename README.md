@@ -24,7 +24,7 @@ If LoRa is used, a `RFM95W` LoRa Module e.g. [Radio FeatherWing](https://www.ada
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/WullT/ESP32LoRaMqttPaxCounter.git
+    git clone https://github.com/mitwelten/mitwelten-21hs-p7-esp32-lora-wifi-paxcounter.git
     ```
 2. On Windows
       - Run [upload.bat](Compiled/upload.bat) and plugin the ESP32 as soon as you are asked to 
@@ -37,7 +37,7 @@ If LoRa is used, a `RFM95W` LoRa Module e.g. [Radio FeatherWing](https://www.ada
     - Run the Python Script [upload_to_node.py](Compiled/upload_to_node.py)
         ```sh
         # go to the Compiled/ directory
-        cd ~/ESP32LoRaMqttPaxCounter/Compiled
+        cd ~/mitwelten-21hs-p7-esp32-lora-wifi-paxcounter/Compiled
         # run the uploader script
         python upload_to_node.py
         ```
@@ -46,7 +46,7 @@ If LoRa is used, a `RFM95W` LoRa Module e.g. [Radio FeatherWing](https://www.ada
 - To enable serial output (for debug purpose), run:
     ```sh
     # go to the Compiled/ directory
-    cd ~/ESP32LoRaMqttPaxCounter/Compiled
+    cd ~/mitwelten-21hs-p7-esp32-lora-wifi-paxcounter/Compiled
     python upload_to_node.py -d
     ```
 
