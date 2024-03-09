@@ -1,5 +1,5 @@
 # ESP32LoRaMqttPaxCounter
-
+Concept based on https://github.com/cyberman54/ESP32-Paxcounter
 
 Counts the number of active BLE devices (smartphones).
 * LoRa or WiFi + MQTT as connectivity options
