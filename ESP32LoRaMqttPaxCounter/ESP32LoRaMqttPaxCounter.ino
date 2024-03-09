@@ -1,6 +1,8 @@
 // https://fhnw.mit-license.org/
 
-// based on https://github.com/nkolban/ESP32_BLE_Arduino/blob/master/examples/
+// Based on https://github.com/cyberman54/ESP32-Paxcounter (concept, not code)
+
+// Based on https://github.com/nkolban/ESP32_BLE_Arduino/blob/master/examples/
 
 // Based on https://github.com/mcci-catena/arduino-lmic/tree/master/examples
 // Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
